@@ -1,3 +1,4 @@
+//App 
 import express from 'express';
 import urlRoutes from './routes/urlRoutes.js';
 import syncDB from '../src/database/sync.js';
